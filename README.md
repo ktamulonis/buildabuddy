@@ -1,25 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project start 9:30 pm 6-12-19
 
-Things you may want to cover:
+* Ruby version: 2.6.3p62
 
-* Ruby version
+* Rails version: 6.0.0.rc1
 
-* System dependencies
+* Setup: clone repo, cd into it, bundle
 
-* Configuration
+* Database creation: rails db:migrate
 
-* Database creation
+* Run the test suite: rspec 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* Start server: rails s 
 
 * ...
 # buildabuddy
