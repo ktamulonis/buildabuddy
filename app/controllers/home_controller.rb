@@ -15,4 +15,13 @@ class HomeController < ApplicationController
   def admin
   end
 
+  def import
+    if params[:file]
+      Item.import(params[:file])
+      redirect_to admin_path, notice: "Items Imported Successfully"
+    else
+      redirect_to admin_path, notice: "No File Attached"
+    end
+  end
+
 end
