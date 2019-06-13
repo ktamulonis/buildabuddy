@@ -1,6 +1,7 @@
 # README
 
-Project start 9:30 pm 6-12-19
+Project start 9:30 pm 6-12-19 Project end 7:30 pm 6-13-19
+Approximately 4 hours were lovingly sprinkled into this project
 
 * Ruby version: 2.6.3p62
 
