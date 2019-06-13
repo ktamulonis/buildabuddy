@@ -14,5 +14,10 @@ Project start 9:30 pm 6-12-19
 
 * Start server: rails s 
 
+* To secure admin page create a .env file and add a username and password
+
+HTTP_AUTH_USERNAME='Buddy'
+HTTP_AUTH_PASSWORD='thebear92'
+
 * ...
 # buildabuddy
